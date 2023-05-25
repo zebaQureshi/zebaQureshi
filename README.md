@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zeba Qureshi
-- 👀 I’m interested in java, python, sql, and any new technology. I am interested for SDE2 or senior sde roles within or outside India.
+- 👀 I’m interested in java, python, sql, and any new technology. I am looking for SDE2 or senior sde roles within or outside India.
 - 🌱 My skillset includes Java, Python, Spring, SpringBoot, Microservices, SQL, PL/SQL.
 - 📫 How to reach me: Linked in : Zeba Qureshi
 
